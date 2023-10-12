@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 16:55:12 SAST 2023
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1692538638708
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1692543312702
+https\://maven.enginehub.org/repo/.lastUpdated=1692538641860

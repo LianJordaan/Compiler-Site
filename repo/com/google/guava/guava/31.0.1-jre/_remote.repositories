@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 16:55:12 SAST 2023
+guava-31.0.1-jre.jar>enginehub-maven=
+guava-31.0.1-jre.jar>sonatype=
+guava-31.0.1-jre.pom>sonatype=
+guava-31.0.1-jre.pom>minecraft-libraries=
+guava-31.0.1-jre.pom>enginehub-maven=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 15:51:29 SAST 2023
+slf4j-api-2.0.1.jar>minecraft-libraries=
+slf4j-api-2.0.1.pom>central=
+slf4j-api-2.0.1.pom>minecraft-libraries=

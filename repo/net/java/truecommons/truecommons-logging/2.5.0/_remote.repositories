@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 14:47:00 SAST 2023
+truecommons-logging-2.5.0.jar>enginehub-maven=
+truecommons-logging-2.5.0.pom>enginehub-maven=

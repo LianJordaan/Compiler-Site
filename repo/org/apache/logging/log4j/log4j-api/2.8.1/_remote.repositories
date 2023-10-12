@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 15:22:47 CAT 2023
+log4j-api-2.8.1.jar>enginehub-maven=
+log4j-api-2.8.1.pom>papermc-repo=
+log4j-api-2.8.1.pom>enginehub-maven=
+log4j-api-2.8.1.jar>papermc-repo=

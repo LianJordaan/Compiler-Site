@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 15:51:28 SAST 2023
+fastutil-8.5.9.jar>minecraft-libraries=
+fastutil-8.5.9.pom>central=
+fastutil-8.5.9.pom>minecraft-libraries=

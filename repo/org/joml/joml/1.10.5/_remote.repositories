@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 15:48:53 SAST 2023
+joml-1.10.5.jar>central=
+joml-1.10.5.jar>enginehub-maven=
+joml-1.10.5.pom>central=
+joml-1.10.5.pom>enginehub-maven=

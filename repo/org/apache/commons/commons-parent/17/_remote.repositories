@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 15:50:13 SAST 2023
+commons-parent-17.pom>central=
+commons-parent-17.pom>enginehub-maven=
+commons-parent-17.pom>papermc-repo=

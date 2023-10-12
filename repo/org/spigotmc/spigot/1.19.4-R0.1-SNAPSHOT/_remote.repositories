@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 21:45:01 SAST 2023
+spigot-1.19.4-R0.1-SNAPSHOT-remapped-mojang.jar>=
+spigot-1.19.4-R0.1-SNAPSHOT-remapped-obf.jar>=
+spigot-1.19.4-R0.1-SNAPSHOT.jar>=
+spigot-1.19.4-R0.1-SNAPSHOT.pom>=
