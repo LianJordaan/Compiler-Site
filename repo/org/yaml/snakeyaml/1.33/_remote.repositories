@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Aug 20 21:13:39 SAST 2023
-snakeyaml-1.33.jar>central=
-snakeyaml-1.33.jar>enginehub-maven=
-snakeyaml-1.33.pom>central=
-snakeyaml-1.33.pom>enginehub-maven=
