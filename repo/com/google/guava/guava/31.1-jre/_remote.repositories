@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 15:48:53 SAST 2023
+guava-31.1-jre.jar>central=
+guava-31.1-jre.jar>enginehub-maven=
+guava-31.1-jre.pom>central=
+guava-31.1-jre.pom>enginehub-maven=

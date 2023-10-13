@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 15:22:47 CAT 2023
+jsr305-1.3.9.pom>enginehub-maven=
+jsr305-1.3.9.pom>papermc-repo=
+jsr305-1.3.9.jar>papermc-repo=

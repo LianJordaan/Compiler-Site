@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 21:13:35 SAST 2023
+gson-2.8.0.jar>papermc-repo=
+gson-2.8.0.jar>sonatype=
+gson-2.8.0.pom>central=
+gson-2.8.0.pom>enginehub-maven=
+gson-2.8.0.pom>papermc-repo=
+gson-2.8.0.pom>sonatype=

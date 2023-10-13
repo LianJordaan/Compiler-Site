@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 15:48:53 SAST 2023
+gson-2.10.jar>central=
+gson-2.10.jar>enginehub-maven=
+gson-2.10.pom>central=
+gson-2.10.pom>enginehub-maven=

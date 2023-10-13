@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 20 15:51:29 SAST 2023
+jopt-simple-5.0.4.jar>minecraft-libraries=
+jopt-simple-5.0.4.pom>central=
+jopt-simple-5.0.4.pom>minecraft-libraries=

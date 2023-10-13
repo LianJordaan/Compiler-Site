@@ -1,0 +1,39 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0",
+    "http": "^0.0.1-security",
+    "node-java-maven": "^0.1.2",
+    "socket.io": "^4.7.2"
+  },
+  "java": {
+    "dependencies": [
+      {
+        "groupId": "com.paulscode",
+        "artifactId": "libraryjavasound",
+        "version": "20101123"
+      },
+      {
+        "groupId": "com.paulscode",
+        "artifactId": "soundsystem",
+        "version": "20120107"
+      },
+      {
+        "groupId": "com.paulscode",
+        "artifactId": "librarylwjglopenal",
+        "version": "20100824"
+      }
+    ]
+  }
+}

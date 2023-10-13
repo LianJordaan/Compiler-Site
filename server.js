@@ -4,7 +4,7 @@ const { exec } = require('child_process');
 const fs = require('fs-extra');
 
 const app = express();
-const port = 3000; //5061  3000
+const port = 5061; //5061  3000
 
 app.use(bodyParser.text());
 
@@ -16,7 +16,7 @@ app.post('/compile', (req, res) => {
   fs.writeFileSync('DFPlugin.java', javaCode);
 
   // Run Maven to install dependencies and compile the code
-  const mavenProcess = exec('"maven/bin/mvn" clean package shade:shade');
+  const mavenProcess = exec('mvn package shade:shade');
   
   // Stream the Maven process output to the console in real-time
   mavenProcess.stdout.pipe(process.stdout);
